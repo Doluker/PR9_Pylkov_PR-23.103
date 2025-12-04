@@ -49,8 +49,7 @@
             android:src="@drawable/album_1" android:scaleType="fitCenter"
             android:layout_columnWeight="1" android:layout_rowWeight="1"
             android:layout_margin="16dp" android:focusable="true" android:clickable="true"
-            android:contentDescription="@string/desc_album_detskie_pesni"
-            android:onClick="onClickStepsActivity"/>
+            android:contentDescription="@string/desc_album_detskie_pesni"/>
 
         <ImageView
             android:layout_width="0dp" android:layout_height="0dp"
@@ -65,24 +64,21 @@
             android:src="@drawable/album_3" android:scaleType="fitCenter"
             android:layout_columnWeight="1" android:layout_rowWeight="1"
             android:layout_margin="16dp" android:focusable="true" android:clickable="true"
-            android:contentDescription="@string/desc_album_pesni_pobedy"
-            android:onClick="onClickStepsActivity"/>
+            android:contentDescription="@string/desc_album_pesni_pobedy"/>
 
         <ImageView
             android:layout_width="0dp" android:layout_height="0dp"
             android:src="@drawable/album_4" android:scaleType="fitCenter"
             android:layout_columnWeight="1" android:layout_rowWeight="1"
             android:layout_margin="16dp" android:focusable="true" android:clickable="true"
-            android:contentDescription="@string/desc_album_sovrem_detskie"
-            android:onClick="onClickStepsActivity"/>
+            android:contentDescription="@string/desc_album_sovrem_detskie"/>
 
         <ImageView
             android:layout_width="0dp" android:layout_height="0dp"
             android:src="@drawable/album_1" android:scaleType="fitCenter"
             android:layout_columnWeight="1" android:layout_rowWeight="1"
             android:layout_margin="16dp" android:focusable="true" android:clickable="true"
-            android:contentDescription="@string/desc_album_detskie_pesni"
-            android:onClick="onClickStepsActivity"/>
+            android:contentDescription="@string/desc_album_detskie_pesni"/>
 
         <ImageView
             android:layout_width="0dp" android:layout_height="0dp"
@@ -97,16 +93,14 @@
             android:src="@drawable/album_3" android:scaleType="fitCenter"
             android:layout_columnWeight="1" android:layout_rowWeight="1"
             android:layout_margin="16dp" android:focusable="true" android:clickable="true"
-            android:contentDescription="@string/desc_album_pesni_pobedy"
-            android:onClick="onClickStepsActivity"/>
+            android:contentDescription="@string/desc_album_pesni_pobedy"/>
 
         <ImageView
             android:layout_width="0dp" android:layout_height="0dp"
             android:src="@drawable/album_4" android:scaleType="fitCenter"
             android:layout_columnWeight="1" android:layout_rowWeight="1"
             android:layout_margin="16dp" android:focusable="true" android:clickable="true"
-            android:contentDescription="@string/desc_album_sovrem_detskie"
-            android:onClick="onClickStepsActivity"/>
+            android:contentDescription="@string/desc_album_sovrem_detskie"/>
 
     </GridLayout>
 

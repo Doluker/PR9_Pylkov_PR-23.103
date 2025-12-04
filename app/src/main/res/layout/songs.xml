@@ -37,7 +37,6 @@
         android:scrollbars="none">
 
         <LinearLayout
-            android:onClick="onClickStepsActivity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
@@ -49,7 +48,6 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:onClick="onClickStepsActivity"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
                 android:padding="10dp"
@@ -148,7 +146,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:onClick="onClickStepsActivity"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
@@ -198,7 +195,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:onClick="onClickStepsActivity"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
@@ -248,7 +244,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:onClick="onClickStepsActivity"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
@@ -298,7 +293,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:onClick="onClickStepsActivity"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
@@ -348,7 +342,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:onClick="onClickStepsActivity"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
@@ -398,7 +391,6 @@
             </RelativeLayout>
 
             <RelativeLayout
-                android:onClick="onClickStepsActivity"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
                 android:background="@drawable/rounded_song_item"
